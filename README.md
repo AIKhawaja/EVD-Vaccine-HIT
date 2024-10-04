@@ -38,5 +38,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgements
 
-- Epidemiological data sourced from [reference/source] 🌐.
-- Special thanks to the [team/organization] for their support in this research 🤝.
+- Epidemiological data sourced from 🌐.
+- Special thanks to the for their support in this research 🤝.
